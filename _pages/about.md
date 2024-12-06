@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth year undergraduate student at the National Institute of Technology Karnataka. I am interested in various fields like Reinforcement Learning, Multimodal Machine Learning and Probabilistic Graphic Modelling. 
+I am a fourth year undergraduate student at the National Institute of Technology Karnataka. I am interested in various fields like Reinforcement Learning, Generative Flow Networks and Neural Operators.
 
-I am currently pursuing research in the field of State Only Imitation Learning. 
-
-I wish to explore other fields like Neural Ordinary Differential Equations (NODEs), Graph Neural Networks, Spiking Neural Networks.
+I am currently pursuing research in - 
+1) Imitation Learning with Prof. Balaraman Ravindran 
+2) Human-AI Collaboration with Prof. Matthew Taylor
